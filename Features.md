@@ -4,8 +4,8 @@ Feature comparison of terminals
 
 (More points better)
 
-|                                                                    | Wezterm	               | Alacritty              | Kitty |                    
-| -------------          											  | ----------             | -------------------- |
+|                                   | Wezterm	               | Alacritty              | Kitty |       
+|           -											  | -------                         | ---------                 | ----- |
 | **Unicode**                                                         |                        |
 | Ligatures (shows, allows to disable?)                               | 2                      | 0                      | 2
 | Colored emojis                                                      | 0 (copying doesn't work) | 0 (copying doesn't work) | 2 (Copies, shows colors)
@@ -34,6 +34,6 @@ Feature comparison of terminals
 | ** Interface **
 | Chromeless (2 if clean interface)                                   | 0                       | 2 | 1
 | ** Other features**
-| Sane defaults	(3 for good defaults)							      |						   | 3 
+| Sane defaults	(3 for good defaults)							      |						   | 3  | -
 | ** Notes **                                                         | Opens login shell? has tabs    | Really buggy since 0.11 alpha 
 
