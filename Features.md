@@ -7,7 +7,7 @@ Feature comparison of terminals
 |                                   | Wezterm	               | Alacritty              | Kitty |       
 |           -											  | -------                         | ---------                 | ----- |
 | **Unicode**                                                         |                        |
-| Ligatures (shows, allows to disable?)                               | 2                      | 0                      | 2
+| Ligatures (shows, allows to disable)                               | 2                      | 0                      | 2
 | Colored emojis                                                      | 0 (copying doesn't work) | 0 (copying doesn't work) | 2 (Copies, shows colors)
 | 中文  日本語 East asian (2 if everything good)                      | 1 (shows but doesn't copy) | 1 (shows but doesn't copy) | 2 copies and shows
 | Indic                       (2 if everything good)                  | 0 (no show, no copy)   |  1 (shows but doesn't copy) | 2 
