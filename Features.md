@@ -35,5 +35,5 @@ Feature comparison of terminals
 | Chromeless (2 if clean interface)                                   | 0                       | 2 | 1
 | ** Other features**
 | Sane defaults	(3 for good defaults)							      |						   | 3  | -
-| ** Notes **                                                         | Opens login shell? has tabs    | Really buggy since 0.11 alpha 
+| ** Notes **                                                         | Opens login shell? has tabs    | Arguably the maintainer has OSS fatigue and doesn't seem very positive about PRs 
 
