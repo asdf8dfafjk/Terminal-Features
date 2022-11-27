@@ -35,5 +35,6 @@ Feature comparison of terminals
 | Chromeless (2 if clean interface)                                   | 0                       | 2 | 2
 | ** Other features**
 | Sane defaults	(3 for good defaults)							      |						   | 3  | -
+| Live config reload  | 2 (act to reload) | 2 (save to reload) | 2 (act to reload) 
 | ** Notes **                                                         | Opens login shell? has tabs    |  
 
