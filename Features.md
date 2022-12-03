@@ -33,6 +33,8 @@ Feature comparison of terminals
 | Bell (1 if present)                                                 | 0                       | 1 | 1
 | **Interface**
 | Chromeless (2 if clean interface)                                   | 0                       | 2 | 2
+| Set starting window size from config | 1 | 1 | 1 
+| Set starting window size from command line | - | 1 | 1 
 | **Other features**
 | Sane defaults	(3 for good defaults)							      |						   | 3  | -
 | Live config reload  | 2 (act to reload) | 2 (save to reload) | 2 (act to reload) 
