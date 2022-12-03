@@ -22,7 +22,7 @@ Feature comparison of terminals
 | Scrollback                                                          | 1                      | 1 | 1
 | Search                                                              | 2 Works perfectly      | 0 (Search available but broken) | Needs kitten
 | Export visible text                                                 |                    0   | 0 (PR abandoned due to maintainer negligence) | 2
-| "terminal hyperlinks" (e.g. `ls --hyperlink=auto`)  (2 if everything works)                                  | 1 (knows, but doesn't act)  | 1 (knows, but doesn't act) | 2
+| "terminal hyperlinks" (e.g. `ls --hyperlink=auto`)  (3 if ootb)                                  | 2(needs config)   | 2 (needs config) | 3(ootb sane default) 
 | ** Performance **
 | Startup                                                             | 3                      | 3 | 3 
 | keypress lag (Qualitative right now more points better)			  | 1                      | 1 | 3 
