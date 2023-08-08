@@ -8,7 +8,7 @@ Feature comparison of terminals
 |           -											  | -------                         | ---------                 | ----- |
 | **Unicode**                                                         |                        |
 | Ligatures (shows, allows to disable)                               | 2                      | 0                      | 2
-| Colored emojis                                                      | 2 | 1 (emoji's yes, colored no) | 2
+| Colored emojis (Notes: https://darrenburns.net/posts/emoji-in-the-terminal/)     | 2 | 1 (emoji's yes, colored no) | 2
 | 中文  日本語 East asian (2 if everything good)                      | 2 |2  | 2 
 | Indic                       (2 if everything good)                  | 0 (needs config)  |  1 ( shows but no ligatures) | 2 
 | RTL text (2 if everything good)                                     | 1                      | 1  | 1  
